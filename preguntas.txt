@@ -1,0 +1,34 @@
+¿Qué hace console.log?
+- Imprimir en pantalla el mensaje especificado.
+
+¿Qué ocurre si cambias el valor de la variable desde la consola? ¿Se puede?
+- La variable pasará a tener el valor dado. Sí se puede.
+
+¿Para qué sirve la consola del navegador en este contexto?
+- Para testear y depurar el código, así como hacer pruebas. 
+
+Para qué sirve el archivo HTML en este contexto?
+- Para determinar los elementos y su estructura de la página web.
+
+¿Por qué es una buena práctica separar el código JavaScript del HTML?
+- Porque de esta manera el código Javascript es reutilizable, además de por organización y limpieza.
+ 
+Por qué se llama Vanilla JavaScript?
+- Porque es Javascript sin librerías ni frameworks.
+
+Cuándo se usa JavaScript puro y cuándo se usan frameworks o librerías como REACT?
+- Vanilla Javascript se usa para aprendizaje o proyectos pequeños, los frameworks y librerías se usan en proyectos grandes.
+
+Cómo se define una función en JS
+- Con function funcion() {} o con const funcion = () => {}.
+
+Sobre el código demuestra la diferencia entre let y const
+- let se utiliza cuando queremos que el valor de la variable cambie más adelante en el código. Se usa const cuando no queremos que el valor varíe.
+
+Indica en el código:
+
+Si puede evitarse el uso de let. Qué hace
+- Sí que puede evitarse, pues en ese código no es necesario.
+
+Cuántos eventos hay en el código, cuáles son y para qué sirven
+- El código Javascript dado cuenta con dos eventos: El primero, DomContentLoaded, ocurre cuando el contenido del DOM carga; el segundo, submit, ocurre cuando el usuario le da a enviar en el formulario.
